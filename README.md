@@ -9,7 +9,7 @@ In the era of pervasive computing, a generation of lightweight ciphers was neede
 
 ## How to use?
 
-Using **main.m", we used a function *generate_Sbox* that takes input of input and output size of S-box.
+Using **main.m**, we used a function *generate_Sbox* that takes input of input and output size of S-box.
 *get_dpTable*, *get_latTable*, *getMaxLP*, *getNonLinearity* to calculate the cryptographic properties DP, LAT, LP, and Nonlinearity respectively, of the generated S-box.
 
 **sage_math.ipynb* is also used to find the cryptographic properties.
